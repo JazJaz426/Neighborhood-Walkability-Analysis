@@ -1,8 +1,6 @@
-- Built a database that integrates the web-scraping and cencus data using spatial join and indexing.
-- Calculated the walkability score for different Sydney neighborhoods.
-- Performed correlation analysis between walkability score and neighborhood average rent/income.
-
-
+### Built a database that integrates the web-scraping and cencus data using spatial join and indexing.
+### Calculated the walkability score for different Sydney neighborhoods.
+### Performed correlation analysis between walkability score and neighborhood average rent/income.
 
 
 
