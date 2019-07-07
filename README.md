@@ -35,7 +35,9 @@ Where z is the standardized z score for each measure. Each measure is assumed to
 </p>
 
 ## Correlation Analysis
-<br/>
+<p align="center">
+<img width="875" alt="Screen Shot 2019-07-07 at 9 08 14 pm" src="https://user-images.githubusercontent.com/46860162/60767430-757ef200-a0fb-11e9-85e7-0a8a3712d76d.png">
+</p>
 
 <p align="center">
   <img width="700" height="400" src="https://user-images.githubusercontent.com/46860162/60764092-b3f9ba00-a0c5-11e9-9628-aa43a2f3bec0.png">
