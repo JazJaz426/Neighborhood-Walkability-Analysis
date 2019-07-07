@@ -3,4 +3,4 @@
 - Performed correlation analysis between walkability score and neighborhood average rent/income.
 
 
-![download](https://user-images.githubusercontent.com/46860162/60764081-33d35480-a0c5-11e9-9c0a-7a815e6bb5f2.jpg)
+![umm0wabbjepgcwrmgpet](https://user-images.githubusercontent.com/46860162/60764092-b3f9ba00-a0c5-11e9-9628-aa43a2f3bec0.png)
