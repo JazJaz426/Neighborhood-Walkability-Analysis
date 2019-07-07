@@ -29,6 +29,12 @@ Walkability formula:
 
 Where z is the standardized z score for each measure. Each measure is assumed to follow a normal distribution.
 
+## Walkability Results
+<p align="center">
+<img width="937" alt="Screen Shot 2019-07-07 at 9 04 51 pm" src="https://user-images.githubusercontent.com/46860162/60767409-0903f300-a0fb-11e9-8507-2ad88990165f.png">
+</p>
+
+## Correlation Analysis
 <br/>
 
 <p align="center">
